@@ -4,3 +4,5 @@
 
 init 2016-06-13T16:05:29Z SpiderTutorial <SpiderTutorial@outlook.com> # Initialize the dellstore2 database
 product-add-comments 2016-06-19T04:39:54Z SpiderTutorial <SpiderTutorial@outlook.com> # add new column "comments" to product
+schema 2018-01-02T02:12:16Z SpiderTutorial <mavcoder09@gmail.com> # Add schema for tutorial objects
+video [schema] 2018-01-02T02:14:32Z SpiderTutorial <mavcoder09@gmail.com> # add video table to schema spidertutorial
